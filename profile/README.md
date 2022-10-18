@@ -4,7 +4,8 @@
 should know?
 
 **```ble_serial_emulator```**
-[debug-ble-emulator-tool](../imgs/debug-ble-emulator-tool.jpg)
+
+<img src="../imgs/debug-ble-emulator-tool.jpg" width=20%>
 
 **```ble_gatt_uuid_generator```**
 
