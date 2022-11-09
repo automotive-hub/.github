@@ -5,7 +5,7 @@ should know?
 
 **```ble_serial_emulator```**
 
-<img src="../imgs/debug-ble-emulator-tool.jpg" width=20%>
+<img src="https://github.com/automotive-hub/.github/blob/master/imgs/debug-ble-emulator-tool.jpg" width=20%>
 
 **```ble_gatt_uuid_generator```**
 
