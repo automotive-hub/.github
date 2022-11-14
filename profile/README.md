@@ -1,4 +1,8 @@
 ## Hi there 👋
+## We're open for partener/ fundraising for bellowed invention projects/ideas 
+## ```First come First serve FCFS```
+
+Feel free to contact us for *further information:
 
 👨‍🚀 Useful resources - where can the community find your docs? Is there anything else the community 
 should know?
